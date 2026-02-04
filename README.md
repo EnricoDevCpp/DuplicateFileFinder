@@ -72,4 +72,12 @@ No external dependencies are required.
 
 ```bash
 python DuplicateFileFinder.py scan "C:\Path\To\Directory"
+```
+
+## ❤️ Support the project
+
+If you like this project and want to support its development,  
+you can make a donation here:
+
+👉 https://www.paypal.com/paypalme/EnricoArama
 
